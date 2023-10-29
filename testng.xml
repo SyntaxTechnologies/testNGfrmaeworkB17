@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="utils.listeners"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/moazzam/Desktop/hrmsProject/gittest/batch17/testNGFramework/src/test/java/testCases/logintTest.java">
+    <classes>
+        <class name="testCases.logintTest"></class>
+    </classes>
+    </test>
+</suite>
